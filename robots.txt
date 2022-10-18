@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://equiposderendimiento.pro/sitemap.xml
